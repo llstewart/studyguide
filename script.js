@@ -6,7 +6,7 @@ document.addEventListener('DOMContentLoaded', () => {
             content: `
                 <div class="hype-section">
                     <h2> Lock In Guide! 😘</h2>
-                    <p> This is a quick study guide to get you ready to shine!</p>
+                    <p> This is a quick study guide to get you ready to shineeeee!</p>
                     <p1> I am still adding some updates in, I gotchu baby </p1>
                     
                         <div class="motivation-card">
